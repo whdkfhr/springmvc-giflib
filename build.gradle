@@ -22,5 +22,4 @@ repositories {
 
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-thymeleaf'
-    compile 'org.thymeleaf.extras:thymeleaf-extras-java8time'
 }
